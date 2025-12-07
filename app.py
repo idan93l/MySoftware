@@ -3,3 +3,9 @@ def welcome():
 
 if __name__ == "__main__":
     welcome()
+    
+def click():
+    print("Click")
+
+if __name__ == "__main__":
+    click()
